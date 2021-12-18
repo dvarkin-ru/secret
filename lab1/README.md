@@ -11,6 +11,5 @@ Dealpha анализирует пример текста этого алфави
 	$ ./alpha "can you imagine an imaginary menagerie manager imagining managing an imaginary menagerie" qwertyuiopasdfghjklzxcvbnm
 	ENCODED MESSAGE: EQF NGX ODQUOFT QF ODQUOFQKN DTFQUTKOT DQFQUTK ODQUOFOFU DQFQUOFU QF ODQUOFQKN DTFQUTKOT
 	$ ./dealpha "you and i can imagine an imaginary manager" "EQF NGX ODQUOFT QF ODQUOFQKN DTFQUTKOT DQFQUTK ODQUOFOFU DQFQUOFU QF ODQUOFQKN DTFQUTKOT"
-	KEY: MCNDRYIAEGU
 	DECODED MESSAGE: CAN YDU IMAGINE AN IMAGINARY MENAGERIE MANAGER IMAGINING MANAGING AN IMAGINARY MENAGERIE
 
